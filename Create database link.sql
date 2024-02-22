@@ -1,0 +1,1 @@
+CREATE DATABASE LINK databaselink_name CONNECT TO schema IDENTIFIED BY your_passworkd USING '//server:portNumber/service';
